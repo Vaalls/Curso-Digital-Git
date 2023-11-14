@@ -1,9 +1,9 @@
 # Curso-Digital-Git/Versionamento
 
-# Salvando modificações no GIT
+## Salvando novos conceitos do Git
 
-## Salvando novos cpnceitos
-
-\*uso do comando git restore
+\*uso do comando git restore, para sabermos a origem do projeto
 
 \*uso do comando git push, para alterarmos no gitHub
+
+\* uso do comando git pull
