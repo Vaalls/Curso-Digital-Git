@@ -5,3 +5,5 @@
 ## Salvando novos cpnceitos
 
 \*uso do comando git restore
+
+\*uso do comando git push, para alterarmos no gitHub
